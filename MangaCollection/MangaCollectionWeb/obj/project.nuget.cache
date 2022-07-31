@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kKYdzAoAccoYMKi87Bk7nf6SUQDk9OvkYHWPFUD5fFzCmUdJlez/dXcWLClesTcnc0tetr3o2pr7HgZiXpEtuA==",
+  "dgSpecHash": "ljpinpnO/Ns6465VTzRth5Mijb5+XvRoHgSlrmSYyOMYyRDivr8MVuYW2Kwfl+GfIZvNHUsP839NhiySYRHXfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zacar\\Desktop\\PracticeCode\\MangaCollection\\MangaCollectionWeb\\MangaCollectionWeb.csproj",
+  "projectFilePath": "C:\\Users\\zacar\\Desktop\\PracticeCode\\dotnet-mvc-practice\\MangaCollection\\MangaCollectionWeb\\MangaCollectionWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zacar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\zacar\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
