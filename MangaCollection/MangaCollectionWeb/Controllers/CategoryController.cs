@@ -38,6 +38,7 @@ namespace MangaCollectionWeb.Controllers
             {
                 _db.Categories.Add(cat);
                 _db.SaveChanges();
+                TempData["success"] = "Category created successfully";
                 return RedirectToAction("Index");
             }
             return View(cat);
@@ -73,6 +74,7 @@ namespace MangaCollectionWeb.Controllers
             {
                 _db.Categories.Update(cat);
                 _db.SaveChanges();
+                TempData["success"] = "Category updated successfully";
                 return RedirectToAction("Index");
             }
             return View(cat);
@@ -108,6 +110,7 @@ namespace MangaCollectionWeb.Controllers
 
             _db.Categories.Remove(cat);
             _db.SaveChanges();
+            TempData["success"] = "Category deleted successfully";
             return RedirectToAction("Index");
         }
     }
