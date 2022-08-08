@@ -1,4 +1,5 @@
-﻿using MangaCollectionWeb.Models;
+﻿using MangaCollectionWeb.Data;
+using MangaCollectionWeb.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -7,6 +8,7 @@ namespace MangaCollectionWeb.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly ApplicationDBContext _db;
 
         public HomeController(ILogger<HomeController> logger)
         {

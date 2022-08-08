@@ -520,3 +520,11 @@ C:\Users\zacar\Desktop\PracticeCode\dotnet-mvc-practice\MangaCollection\MangaCol
 C:\Users\zacar\Desktop\PracticeCode\dotnet-mvc-practice\MangaCollection\MangaCollectionWeb\obj\Debug\net6.0\MangaCollectionWeb.pdb
 C:\Users\zacar\Desktop\PracticeCode\dotnet-mvc-practice\MangaCollection\MangaCollectionWeb\obj\Debug\net6.0\MangaCollectionWeb.genruntimeconfig.cache
 C:\Users\zacar\Desktop\PracticeCode\dotnet-mvc-practice\MangaCollection\MangaCollectionWeb\obj\Debug\net6.0\ref\MangaCollectionWeb.dll
+C:\Users\zacar\Desktop\PracticeCode\dotnet-mvc-practice\MangaCollection\MangaCollectionWeb\obj\Debug\net6.0\MangaCollectionWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zacar\Desktop\PracticeCode\dotnet-mvc-practice\MangaCollection\MangaCollectionWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\zacar\Desktop\PracticeCode\dotnet-mvc-practice\MangaCollection\MangaCollectionWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\zacar\Desktop\PracticeCode\dotnet-mvc-practice\MangaCollection\MangaCollectionWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\zacar\Desktop\PracticeCode\dotnet-mvc-practice\MangaCollection\MangaCollectionWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\zacar\Desktop\PracticeCode\dotnet-mvc-practice\MangaCollection\MangaCollectionWeb\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\zacar\Desktop\PracticeCode\dotnet-mvc-practice\MangaCollection\MangaCollectionWeb\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\zacar\Desktop\PracticeCode\dotnet-mvc-practice\MangaCollection\MangaCollectionWeb\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
