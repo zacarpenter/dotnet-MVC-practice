@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PRlXTtcElQALa8yX2zhXRfEM/sZ7zBPRzvIVslHIRYM=",
+  "Hash": "7cSOfyXoJ6WkTkOwLWmsO4s5fnzH8xHF7295pqh+eTU=",
   "Source": "BookWebStore",
   "BasePath": "_content/BookWebStore",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\zacar\\Desktop\\PracticeCode\\dotnet-mvc-practice\\BookWebStoreApp\\BookWebStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookWebStore.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\zacar\\Desktop\\PracticeCode\\dotnet-mvc-practice\\BookWebStoreApp\\BookWebStore\\wwwroot\\css\\bootswatchTheme.css",
+      "SourceId": "BookWebStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zacar\\Desktop\\PracticeCode\\dotnet-mvc-practice\\BookWebStoreApp\\BookWebStore\\wwwroot\\",
+      "BasePath": "_content/BookWebStore",
+      "RelativePath": "css/bootswatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootswatchTheme.css"
     },
     {
       "Identity": "C:\\Users\\zacar\\Desktop\\PracticeCode\\dotnet-mvc-practice\\BookWebStoreApp\\BookWebStore\\wwwroot\\css\\site.css",
