@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Mu/mH1o7E9/Dd10uiSA3ykdictMTPTRbVDEYB2wGQ58=",
+  "Hash": "V928v5Xrmep+mI8vdJoOOuLKc1hRiQlokAJJx9Qr05w=",
   "Source": "RazorWebDemo",
   "BasePath": "_content/RazorWebDemo",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\zacar\\Desktop\\PracticeCode\\dotnet-mvc-practice\\RazorWeb\\RazorWebDemo\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RazorWebDemo.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\zacar\\Desktop\\PracticeCode\\dotnet-mvc-practice\\RazorWeb\\RazorWebDemo\\wwwroot\\css\\bootswatch_morph.css",
+      "SourceId": "RazorWebDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zacar\\Desktop\\PracticeCode\\dotnet-mvc-practice\\RazorWeb\\RazorWebDemo\\wwwroot\\",
+      "BasePath": "_content/RazorWebDemo",
+      "RelativePath": "css/bootswatch_morph.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootswatch_morph.css"
     },
     {
       "Identity": "C:\\Users\\zacar\\Desktop\\PracticeCode\\dotnet-mvc-practice\\RazorWeb\\RazorWebDemo\\wwwroot\\css\\site.css",

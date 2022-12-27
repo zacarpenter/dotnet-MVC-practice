@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\RazorWebDemo.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\zacar\\Desktop\\PracticeCode\\dotnet-mvc-practice\\RazorWeb\\RazorWebDemo\\wwwroot\\css\\bootswatch_morph.css",
+      "PackagePath": "staticwebassets\\css\\bootswatch_morph.css"
+    },
+    {
       "Id": "C:\\Users\\zacar\\Desktop\\PracticeCode\\dotnet-mvc-practice\\RazorWeb\\RazorWebDemo\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
